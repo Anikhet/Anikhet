@@ -16,23 +16,6 @@ I'm currently pursuing a Master's in Computer Science at RIT. Passionate about s
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🏆 Achievements
-- Winner of HackRIT 2023
-- Published a research paper on "Machine Learning in Healthcare"
-
-## 📚 Education
-- **Master of Science in Computer Science**  
-  Rochester Institute of Technology, Expected 2024
-- **Bachelor of Technology in Computer Science**  
-  XYZ University, 2022
-
-## 📫 How to Reach Me
-- Email: anikhet.mulky@example.com
-- LinkedIn: [Anikhet Mulky](https://www.linkedin.com/in/anikhet-mulky-567ab1173/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anikhet&icon=0&color=0)](https://visitcount.itsvg.in)
