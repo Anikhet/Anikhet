@@ -10,6 +10,7 @@ Currently pursuing Master's in Computer Science at RIT
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anikhet&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anikhet&theme=darcula&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikhet&size_weight=0.5&count_weight=0.5)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
