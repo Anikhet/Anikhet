@@ -11,7 +11,8 @@ I'm currently pursuing a Master's in Computer Science at RIT. Passionate about s
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anikhet&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anikhet&theme=darcula&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikhet&theme=darcula&exclude_repo=Machine-Learning)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikhet&theme=darcula&hide=jupyter%20notebook)
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
