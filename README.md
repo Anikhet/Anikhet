@@ -20,3 +20,5 @@ I'm currently pursuing a Master's in Computer Science at RIT. Passionate about s
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anikhet&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ofj1s0zuavrkpewsatzc148y&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
