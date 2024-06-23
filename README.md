@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anikhet Mulky!
 
-I'm currently pursuing a Master's in Computer Science at RIT. Passionate about Web Dev, data science, and constantly learning new technologies.
+I'm currently pursuing a Master's in Computer Science at RIT. Passionate about Web Dev, Data science, and constantly learning new technologies.
 
 ![Web Developer GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
