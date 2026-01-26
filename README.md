@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anikhet Mulky!
 
-Master's in Computer Science from RIT. Passionate about Full Stack, AI and constantly learning new technologies!
+Master's in Computer Science. Passionate about Full Stack, AI and constantly learning new technologies!
 
 ![Web Developer GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
