@@ -6,7 +6,6 @@ Master's in Computer Science. Passionate about Full Stack, AI and constantly lea
 
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikhet-mulky-567ab1173/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)]([https://twitter.com/your_twitter_handle](https://x.com/anikhetmulkyy))
 
 ## 💻 Tech Stack:
