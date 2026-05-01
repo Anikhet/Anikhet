@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anikhet Mulky!
+# 👋 Hi there!
 
 Master's in Computer Science. Passionate about Full Stack, AI and constantly learning new technologies!
 
