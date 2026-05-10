@@ -1,42 +1,34 @@
-# 👋 Hi there!
+# Anikhet Mulky
 
-Master's in Computer Science. Passionate about Full Stack, AI and constantly learning new technologies!
+Software engineer, building full-stack products with AI at the core. Currently at Clover Labs. Based in Fremont, CA.
 
-![Web Developer GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-
-## 🌐 Connect with Me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)]([https://twitter.com/your_twitter_handle](https://x.com/anikhetmulkyy))
-
-## 💻 Tech Stack:
-
-### Frontend Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)
-
-### Backend Development:
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Full SDLC:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![JIRA](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3DDC84?style=for-the-badge&logo=continuousintegration&logoColor=white)
-
-### Cloud & Hosting:
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-### Programming Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anikhet&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anikhet&theme=darcula&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikhet&theme=darcula&hide=jupyter%20notebook)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[anikhetmulky.com](https://www.anikhetmulky.com/) · [linkedin](https://www.linkedin.com/in/anikhet-mulky/) · [x](https://x.com/anikhetmulkyy) · [soundcloud](https://soundcloud.com/anikhetmulky) · [email](mailto:am9559@rit.edu)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anikhet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7ofj1s0zuavrkpewsatzc148y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+### Recent work
+
+**Red Rover** — A Reddit "operating system" for go-to-market: AI agents track keywords, trends, and competitors across Reddit, then help you actually show up in the threads worth showing up in. Built at Clover Labs.
+*[One sentence on the part you'd want to talk about in an interview — agent reliability, eval design, keeping outputs from feeling AI-generated, whatever the real hard problem has been.]*
+&nbsp;&nbsp;[product](https://app.tryredrover.com/metrics)
+
+**Discord Knowledge Bot** — Production-grade RAG bot for community Q&A. GPT-4o for generation, OpenAI embeddings + Supabase for retrieval, Node.js wiring up the Discord side.
+*[Your turn: chunking strategy, hallucination handling, latency, cost — pick the most interesting bit.]*
+&nbsp;&nbsp;[code](https://github.com/Anikhet)
+
+**Racing Car RL** — Autonomous cars learning a track via neuroevolution: small neural nets evolved with genetic algorithms, 5-sensor raycasting for perception, real-time physics. Mostly an excuse to play with NEAT-style ideas in PyTorch.
+&nbsp;&nbsp;[code](https://github.com/Anikhet/pytorch-tutorial/tree/main/racing_car_rl)
+
+### Stack
+
+TypeScript and Python day-to-day. React/Next, Node, Flask, Postgres, Tailwind. Comfortable in Java and C++ when needed. Currently going deep on *[the agent framework / eval tooling / area you're actually using right now]*.
+
+### Off duty
+
+Visual astronomy — `astroagent` is where the hobby meets code. Producing music: everything on [SoundCloud](https://soundcloud.com/anikhetmulky) is mine, top to bottom. Video games. Competitive programming when I want a reminder I'm not as fast as I think I am.
+
+*[Optional one-liner: a book that changed your mind, a recent rabbit hole, an album on repeat — anything that gives a future teammate a hook.]*
+
+### Reach
+
+[am9559@rit.edu](mailto:am9559@rit.edu) — best for *[the kind of conversation you actually want, e.g. "agent / eval problems" or "early-stage roles where I get to ship"]*.
