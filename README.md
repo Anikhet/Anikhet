@@ -1,34 +1,36 @@
 # Anikhet Mulky
 
-Software engineer, building full-stack products with AI at the core. Currently at Clover Labs. Based in Fremont, CA.
+Software engineer building full-stack products with AI in the loop. Currently at Clover Labs.
 
-[anikhetmulky.com](https://www.anikhetmulky.com/) · [linkedin](https://www.linkedin.com/in/anikhet-mulky/) · [x](https://x.com/anikhetmulkyy) · [soundcloud](https://soundcloud.com/anikhetmulky) · [email](mailto:am9559@rit.edu)
+[anikhetmulky.com](https://www.anikhetmulky.com/) · [linkedin](https://www.linkedin.com/in/anikhet-mulky/) · [github](https://github.com/Anikhet) · [soundcloud](https://soundcloud.com/anikhetmulky) · [email](mailto:animulky@gmail.com)
 
 ---
 
-### Recent work
+### What I'm working on
 
-**Red Rover** — A Reddit "operating system" for go-to-market: AI agents track keywords, trends, and competitors across Reddit, then help you actually show up in the threads worth showing up in. Built at Clover Labs.
-*[One sentence on the part you'd want to talk about in an interview — agent reliability, eval design, keeping outputs from feeling AI-generated, whatever the real hard problem has been.]*
-&nbsp;&nbsp;[product](https://app.tryredrover.com/metrics)
+**Clover Labs** *(Oct 2025 → present)* — Building agent surfaces and product around LLMs. A few things I've shipped recently: a GPT-4o chatbot orchestrating 40+ tools across 9 SaaS APIs (Stripe, Slack, Notion), a semantic search layer with multi-threshold retrieval over 1k+ doc chunks, an account-onboarding pipeline replacing a fully manual flow for 1k+ users, and an in-house carousel editor that replaced Figma for our content team.
 
-**Discord Knowledge Bot** — Production-grade RAG bot for community Q&A. GPT-4o for generation, OpenAI embeddings + Supabase for retrieval, Node.js wiring up the Discord side.
-*[Your turn: chunking strategy, hallucination handling, latency, cost — pick the most interesting bit.]*
-&nbsp;&nbsp;[code](https://github.com/Anikhet)
+Before that, co-op at **Peeker AI** (Aug 2024 – May 2025): SvelteKit → Next.js migration on the deliverability dashboard, and a serverless Lambda backend running 100k+ inbox health checks a day.
 
-**Racing Car RL** — Autonomous cars learning a track via neuroevolution: small neural nets evolved with genetic algorithms, 5-sensor raycasting for perception, real-time physics. Mostly an excuse to play with NEAT-style ideas in PyTorch.
-&nbsp;&nbsp;[code](https://github.com/Anikhet/pytorch-tutorial/tree/main/racing_car_rl)
+### Side projects
+
+**AstroAgent** — Voice-enabled astronomy assistant. 5-tool agent over the OpenAI Realtime API + WebRTC, with a real-time Three.js scene rendering 8 planetary bodies. Cached position lookups land sub-1ms; tool lookups stay under 100ms.
+&nbsp;&nbsp;Next.js 15 · FastAPI · Three.js · [code](https://github.com/Anikhet/astroagent)
+
+**Discord Knowledge Bot** — Production RAG bot for community Q&A. ~500 daily queries, sub-200ms, 90%+ answer relevance on domain-specific questions. Conversation memory + context chunking did most of the work.
+&nbsp;&nbsp;Node · GPT-4o · Supabase · OpenAI embeddings · [code](https://github.com/Anikhet)
+
+**Ball Balancer 3D** — Neuroevolution sandbox: small networks evolved with genetic algorithms to balance a ball on a tilting platform, 8-dim state, real PyBullet physics. Mostly an excuse to play with non-gradient training.
+&nbsp;&nbsp;PyTorch · PyBullet · [code](https://github.com/Anikhet)
 
 ### Stack
 
-TypeScript and Python day-to-day. React/Next, Node, Flask, Postgres, Tailwind. Comfortable in Java and C++ when needed. Currently going deep on *[the agent framework / eval tooling / area you're actually using right now]*.
+TypeScript and Python day-to-day. React/Next, Node, FastAPI, Postgres, Redis, AWS (Lambda, S3, DynamoDB, SQS). Comfortable in Java, Go, C++. Most recent rabbit hole: tool orchestration with the Vercel AI SDK and the OpenAI Realtime API.
 
 ### Off duty
 
-Visual astronomy — `astroagent` is where the hobby meets code. Producing music: everything on [SoundCloud](https://soundcloud.com/anikhetmulky) is mine, top to bottom. Video games. Competitive programming when I want a reminder I'm not as fast as I think I am.
-
-*[Optional one-liner: a book that changed your mind, a recent rabbit hole, an album on repeat — anything that gives a future teammate a hook.]*
+Visual astronomy — it leaks into my code; AstroAgent is exhibit A. I produce music too: everything on [SoundCloud](https://soundcloud.com/anikhetmulky) is mine, top to bottom. Video games and the occasional competitive programming session round out the rest.
 
 ### Reach
 
-[am9559@rit.edu](mailto:am9559@rit.edu) — best for *[the kind of conversation you actually want, e.g. "agent / eval problems" or "early-stage roles where I get to ship"]*.
+[animulky@gmail.com](mailto:animulky@gmail.com) — happy to talk about *[the kind of conversation you want most: agent tooling, eval design, early-stage roles, etc. — one line, your words]*.
