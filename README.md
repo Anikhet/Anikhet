@@ -1,6 +1,7 @@
 # Anikhet Mulky
 
 Software engineer. Currently at Clover Labs, working on product around LLMs and agents.
+I like to think, evaluate trade-offs and solve complex problems
 
 [anikhetmulky.com](https://www.anikhetmulky.com/) · [github](https://github.com/Anikhet) · [x](https://x.com/anikhetmulkyy) · [soundcloud](https://soundcloud.com/anikhetmulky) · [email](mailto:animulky@gmail.com)
 
