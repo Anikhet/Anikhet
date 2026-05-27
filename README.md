@@ -20,16 +20,7 @@ Before Clover I did a co‑op at Peeker AI (August 2024 to May 2025). Migrated t
 
 ### Side projects
 
-**goswr** is a Go port of Vercel SWR's stale‑while‑revalidate caching pattern for server side use. The Go ecosystem only had partial coverage. Singleflight in one library, mutation API in another, no single piece with all of it plus generics, so I wrote one. Generic API, background revalidation, mutation, polling. [code](https://github.com/Anikhet/goswr)
-
 **AstroAgent** is a voice enabled astronomy assistant. A 5 tool agent talking to the OpenAI Realtime API over WebRTC, paired with a real time Three.js scene that renders 8 planetary bodies. Cached position lookups stay under a millisecond and tool calls stay under 100ms. Built with Next.js 15, FastAPI, and Three.js. [code](https://github.com/Anikhet/astroagent)
-
-A few others live in private repos. Happy to walk through any of them on a call:
-
-* **DevInterview.AI** is a real time AI interviewer with a VRM avatar that actually looks at you. MediaPipe face tracking writes to refs (no React re‑renders) on one rAF loop, a Three.js loop reads them per frame to drive blendshapes, and a WebAudio AnalyserNode feeds visemes for lip‑sync. Gemini for the interviewer brain.
-* **Drip** is an AI stylist for streetwear. Composes head to toe fits from a user's existing closet plus 1 or 2 shoppable adds, with a "Crew of 5" 🔥/MID/💀 voting loop. Next.js 16, GPT‑5.5 stylist + GPT‑5.4‑mini parser, FLUX via fal.ai, Trigger.dev for async generation, Serper for product matching.
-* **Reverse GEO** tracks which queries cite your domain in LLM responses, not just Google. Firecrawl scraping into FAISS embeddings, then GPT‑4o for query generation and execution, then citation extraction. The LLM SEO problem, basically.
-* **AstroAI** is an Expo + React Native production app. AI astrology chat, palm reading via camera with a vision model, RevenueCat IAP, Zustand persisted state, FastAPI backend.
 
 ### Stack
 
