@@ -45,7 +45,7 @@ Lately I've been deep in tool orchestration with the **Vercel AI SDK** and the *
 
 ## Off Duty
 
-Visual astronomy is what pulled me into AstroAgent in the first place. I produce music too — everything on my [SoundCloud](https://soundcloud.com/anikhetmulky) is mine, start to finish. Video games, and a bit of competitive programming when I want to feel slow again.
+Visual astronomy is what pulled me into AstroAgent in the first place. I produce music too, everything on my [SoundCloud](https://soundcloud.com/anikhetmulky) is mine, start to finish. Video games, and a bit of competitive programming when I want to feel slow again.
 
 ---
 
