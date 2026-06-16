@@ -6,7 +6,7 @@ I like to think, evaluate trade-offs, and solve complex problems.
 
 [![Website](https://img.shields.io/badge/Website-anikhetmulky.com-1a1a1a?style=flat-square)](https://www.anikhetmulky.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Anikhet-181717?style=flat-square&logo=github)](https://github.com/Anikhet)
-[![X](https://img.shields.io/badge/X-anikhetmulky-000000?style=flat-square&logo=x)](https://x.com/anikhetmulky)
+[![X](https://img.shields.io/badge/X-anikhetmulky-000000)](https://x.com/anikhetmulky)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-anikhetmulky-FF5500?style=flat-square&logo=soundcloud)](https://soundcloud.com/anikhetmulky)
 [![Email](https://img.shields.io/badge/Email-animulky@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:animulky@gmail.com)
 
