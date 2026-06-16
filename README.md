@@ -1,6 +1,6 @@
 # Anikhet Mulky
 
-Software engineer. Master's in Computer Science from RIT. Currently at **Clover Labs**, building product around LLMs and agents.
+Software engineer. Master's in Computer Science from RIT. Currently at **[Clover Labs](https://cloverlabs.ai/)**, building product around LLMs and agents.
 
 I like to think, evaluate trade-offs, and solve complex problems.
 
